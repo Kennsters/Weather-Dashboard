@@ -1,0 +1,21 @@
+/* .weather {
+    border: 2px solid black;
+    width: 100%;
+} */
+
+.mainWeather {
+    border: 2px solid black;
+    height: 344px;
+}
+
+.favorable {
+    color: green;
+}
+
+.moderate {
+    color: yellow;
+}
+
+.severe {
+    color: red;
+}
