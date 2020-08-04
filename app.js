@@ -7,6 +7,7 @@ var min = 0
 var max = 7
 
 
+
 document.getElementById('search').addEventListener('click', event => {
     event.preventDefault()
     document.getElementById('forecast').innerHTML = ``
